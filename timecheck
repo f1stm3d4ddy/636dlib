@@ -1,0 +1,6 @@
+Without optimization: 6878765 tacts
+T_matr: 4449458 tacts (x1.546 faster)
+With gcc -O2: 2801762 tacts (x2.455 faster)
+With gcc -O2 and T_matr: 1859576 tacts (x3.699 faster)
+
+
